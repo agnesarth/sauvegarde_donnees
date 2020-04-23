@@ -4,3 +4,7 @@ gem 'pry'
 gem 'rspec'
 gem 'rubocop', '~> 0.57.2'
 gem 'dotenv'
+gem 'nokogiri'
+gem 'json'
+gem 'open_uri_redirections'
+gem "google_drive"
